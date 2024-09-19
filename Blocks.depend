@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1685446649 source:c:\users\alex\downloads\c project\blocks\main.c
+	<stdio.h>
+
+1685452345 source:d:\faculty of engineering\level 1\semester 2\c programming\c project\blocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
